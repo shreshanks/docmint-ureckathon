@@ -1,1 +1,1 @@
-DocMint an document issuing protocol, that creates NFT documents.
+DocMint an document issuing protocol, that creates NFT documents
